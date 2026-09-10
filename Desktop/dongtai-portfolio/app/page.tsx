@@ -61,9 +61,10 @@ export default function Home() {
             </a>
 
             <a
-              href="/resume.pdf"
+              href="/DongtaiHuang_McGill_Resume_Nouvere.pdf"
               target="_blank"
-              className="rounded-lg border border-slate-600 px-6 py-3 font-medium transition hover:border-white"
+              rel="noopener noreferrer"
+              className="rounded-lg border border-slate-700 px-6 py-3 font-semibold text-white transition hover:border-slate-500 hover:bg-slate-900"
             >
               View Resume
             </a>
